@@ -1,1 +1,2 @@
 This is the first commit on master branch.
+I am adding some new feature to master branch
