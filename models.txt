@@ -1,5 +1,5 @@
 This is the schema of user model. From now on developers wil build post, comment, blog schemas
 Oh hi, I'm going to make a post schema
 
-
 Abhishek made blog schema 
+Ah, things I've to do to understand rebase :/
