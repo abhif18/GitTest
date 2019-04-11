@@ -1,0 +1,1 @@
+This is the schema of user model. From now on developers wil build post, comment, blog schemas
